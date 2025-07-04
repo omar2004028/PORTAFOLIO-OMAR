@@ -11,8 +11,7 @@ Este es mi portafolio personal, desarrollado como parte de mi proceso de aprendi
 
 ## 📸 Vista previa
 
-> Puedes ver el portafolio en funcionamiento 👉 [aquí](https://tu-nombre.vercel.app)  
-
+> 🔗 [Visita mi portafolio](https://portafolio-omar-two.vercel.app)
 
 ## 💡 Qué aprendí
 
